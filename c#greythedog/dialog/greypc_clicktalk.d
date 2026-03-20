@@ -559,7 +559,7 @@ END
 
 /* growl */
 IF ~~ THEN talkto_pcenergetic_01
-SAY @41 /* (Grey snapps at an imaginary prey.) */ /* @41 /* (Grey snapps at an imaginary prey.) */ */
+SAY @41 /* (Grey snaps at an imaginary prey.) */ /* @41 /* (Grey snaps at an imaginary prey.) */ */
 IF ~~ THEN + talkto_growl
 END
 
