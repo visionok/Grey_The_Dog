@@ -353,7 +353,7 @@ IF ~~ THEN BDBELEGA ham_20
 == BDBELEGA IF ~Global("C#Gr_SoDQuestThisArea","MYAREA",1)~ THEN @108 /* [Belegarm]Plus, after all the time that passed and all the people going in and out of my tent? */
 == BDBELEGA IF ~Global("C#Gr_SoDQuestThisArea","MYAREA",0)~ THEN @109 /* [Belegarm]Plus, that was in another camp altogether! What do you think you will accomplish with it here? */
 END
-++ @110 /* Special mix of herbs means special odor. I am sure Grey could sniff it out, where the ham to be around somewhere. */ + ham_16
+++ @110 /* Special mix of herbs means special odor. I am sure Grey could sniff it out, were the ham to be around somewhere. */ + ham_16
 ++ @111 /* Do you have something else with the scent of the herb mix I could train my dog with? If it is so unique, he should be able to sniff the ham out by it. */ + ham_16
 ++ @100 /* You are right, maybe that's not such a good idea. I guess there is nothing I can do. */ + ham_14
 
