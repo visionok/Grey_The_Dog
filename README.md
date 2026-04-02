@@ -66,7 +66,7 @@ There is crossmod content included in the mod which should show if the install o
 
 Shortly after Grey joined, Jondalar and Erik will make an appearance to look where Grey went.
 
-Grey needs own items. He will come with basic war dog equipment, better equipment can be found and bought throughout the game: there are items, armor, and weapons to be found for Grey explicitely. The file items.txt lists those and also where they can be found. There are two War Dog Armorers available, each on the two carnivals in the game (Nashkell and BG city, with mapnotes).
+Grey needs own items. He will come with basic war dog equipment, better equipment can be found and bought throughout the game: there are items, armor, and weapons to be found for Grey explicitly. The file items.txt lists those and also where they can be found. There are two War Dog Armorers available, each on the two carnivals in the game (Nashkell and BG city, with mapnotes).
 
 Grey will learn to sniff out lesser doppelgangers. This is more for the reason that I think he should be able to, not because I think it's overly useful in the game where some encounters with doppelgangers are supposed to be a surprise. Therefore, I decided that he can't sniff out greater doppelgangers so the most crucial deceptions in the game will not be spoiled.
 

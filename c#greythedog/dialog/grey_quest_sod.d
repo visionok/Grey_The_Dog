@@ -55,7 +55,7 @@ IF ~~ THEN + about_ham_03
 END
 
 IF ~~ THEN about_ham_03
-SAY @20 /* [female FF Scout]He did not send for you explicitely, but considering how suspicious he was of your dog in general, we decided to let you know so you can clear the situation fast, before any misunderstandings occur. */
+SAY @20 /* [female FF Scout]He did not send for you explicitly, but considering how suspicious he was of your dog in general, we decided to let you know so you can clear the situation fast, before any misunderstandings occur. */
 ++ @21 /* "We" being who?... */ + about_ham_05
 ++ @22 /* That's fair. Thank you. */ + about_ham_04
 ++ @23 /* Fine, I'll talk to him. */ + about_ham_04
