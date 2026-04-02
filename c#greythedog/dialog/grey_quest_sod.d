@@ -349,7 +349,7 @@ END //APPEND
 
 CHAIN
 IF ~~ THEN BDBELEGA ham_20
-@107 /* [Belegarm]Didn't we cover this topic? - Hmm, I do admit the ham had a very charasteristic and unique smell - even my hands smelled of it after handling the hock. But if cut down into slices - I'm not so sure. */
+@107 /* [Belegarm]Didn't we cover this topic? - Hmm, I do admit the ham had a very characteristic and unique smell - even my hands smelled of it after handling the hock. But if cut down into slices - I'm not so sure. */
 == BDBELEGA IF ~Global("C#Gr_SoDQuestThisArea","MYAREA",1)~ THEN @108 /* [Belegarm]Plus, after all the time that passed and all the people going in and out of my tent? */
 == BDBELEGA IF ~Global("C#Gr_SoDQuestThisArea","MYAREA",0)~ THEN @109 /* [Belegarm]Plus, that was in another camp altogether! What do you think you will accomplish with it here? */
 END
