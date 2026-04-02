@@ -44,12 +44,12 @@ Global("C#Gr_SoDSkieScent","GLOBAL",1)
 	!See([ENEMY])~ + @194 /* Find Skie, Grey. Find! */ + sod_search_skie
 
 
-/* SoD, BD1000 find missing refugies */
+/* SoD, BD1000 find missing refugees */
 
 + ~AreaCheck("BD1000") Range("BDHEROD",15) Global("C#Grey_SoD_statues","GLOBAL",1) 
 GlobalLT("BD_PET_MAIN","MYAREA",4)
 Global("bd_125_bought_golem","global",0)
-Global("BD_PET_SAVED","MYAREA",0)~ + @186 /* Grey, find the missing refugies! Find, Grey! */ /* @186 /* Grey, find the missing refugies! Find, Grey! */ */ + sod_statues
+Global("BD_PET_SAVED","MYAREA",0)~ + @186 /* Grey, find the missing refugees! Find, Grey! */ /* @186 /* Grey, find the missing refugees! Find, Grey! */ */ + sod_statues
 
 /* SoD, BD3000 Safana's traitor quest */
 /* candle -> Mizhena */

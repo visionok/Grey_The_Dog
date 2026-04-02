@@ -1,5 +1,5 @@
 
-/* c#lgrcus1.baf: Grey sniffs for refugies at the crates and then leads the PC to the statues */
+/* c#lgrcus1.baf: Grey sniffs for refugees at the crates and then leads the PC to the statues */
 IF
 	True()
 THEN

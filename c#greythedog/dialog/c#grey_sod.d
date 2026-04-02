@@ -92,7 +92,7 @@ END//APPEND
 /* confront Teleria with your findings */
 
 EXTEND_BOTTOM BDTELERI 2
-+ ~Global("C#Grey_SoD_statues","GLOBAL",2)~ + @13 /* I'm here indeed. My dog already helped me identify that these statues are the missing refugies. Why are we meeting here after I just asked you about them? */ + 10
++ ~Global("C#Grey_SoD_statues","GLOBAL",2)~ + @13 /* I'm here indeed. My dog already helped me identify that these statues are the missing refugees. Why are we meeting here after I just asked you about them? */ + 10
 END
 
 /* chicken in the well easter egg */

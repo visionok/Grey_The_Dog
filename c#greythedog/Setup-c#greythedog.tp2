@@ -1904,7 +1904,7 @@ ACTION_IF (GAME_IS ~bgee eet~ AND FILE_EXISTS_IN_GAME ~bd0103.are~) THEN BEGIN
 
 /* scripts */
 
-/* Grey sniffs for missing refugies */
+/* Grey sniffs for missing refugees */
 COMPILE EVALUATE_BUFFER ~c#greythedog/script/c#grcus1.baf~
 /* SoD quest */
 COMPILE EVALUATE_BUFFER ~c#greythedog/script/c#grcus2.baf~
