@@ -26,8 +26,8 @@ END
 
 IF ~~ THEN grey_sniffs_03
 SAY @11 /* [Belegarm]You better make sure of it! Noone gets special treatment here. */
-+ ~!Global("bd_belegarm_first_time","GLOBAL",0)~ + @12 /* And that's absolutely understandable. Grey won't make any troubles, I asure you. */ + grey_sniffs_01
-+ ~Global("bd_belegarm_first_time","GLOBAL",0)~ + @12 /* And that's absolutely understandable. Grey won't make any troubles, I asure you. */ + grey_sniffs_02
++ ~!Global("bd_belegarm_first_time","GLOBAL",0)~ + @12 /* And that's absolutely understandable. Grey won't cause any trouble, I assure you. */ + grey_sniffs_01
++ ~Global("bd_belegarm_first_time","GLOBAL",0)~ + @12 /* And that's absolutely understandable. Grey won't cause any trouble, I assure you. */ + grey_sniffs_02
 ++ @13 /* Yes, I got it, thanks! */ + grey_sniffs_01
 ++ @8 /* Do you hear yourself talking? */ + grey_sniffs_01
 END
