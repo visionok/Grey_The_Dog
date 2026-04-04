@@ -1436,8 +1436,8 @@ Special: Restores 9 Hit Points.
 Weight: 1~ */
 
 COPY ~c#greythedog/items/c#grsq01.itm~ ~override/c#grsq02.itm~ 
-     SAY NAME1 @19002 /* ~Jucy Piece of Ham~ */
-     SAY NAME2 @19002 /* ~Jucy Piece of Ham~ */
+     SAY NAME1 @19002 /* ~Juicy Piece of Ham~ */
+     SAY NAME2 @19002 /* ~Juicy Piece of Ham~ */
      SAY IDENTIFIED_DESC @19003 /* ~This is a slice of ham you received from Lester. 
 This is not an ordinary ham. Inspecting it you catch a faint but pleasing scent of herbs you can't quite put your finger on, and it looks extraordinary fine. 
 
